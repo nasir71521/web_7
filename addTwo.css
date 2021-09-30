@@ -1,0 +1,74 @@
+
+
+
+@media only screen and (max-width: 600px){
+        #merge{
+        	margin-top: 50px;
+        }	
+      /*  #response{
+         position: absolute;
+         top: 40px;
+        }*/
+        #left{
+        	margin-left: 7px;
+        }
+        #move{
+        	padding-top: 450px;
+        }
+        #moves{
+        	padding-top: 400px;
+        	margin-left: 7px;
+        }
+        #movees{
+        	margin-left: 9px;
+        	padding-top: 250px;
+        }
+        #mov{
+        	margin-left: 7px;
+        	padding-top: 250px;
+        }
+
+	@media only screen and (max-width: 960px){
+           #back3{
+           	  display: none;
+           }
+           
+	}
+
+	@media only screen and (max-width: 1350px){
+		#back3{
+           	  width: 100px;
+           	  height: 100px;
+
+
+           }
+	}
+
+	@media only screen and (max-width: 1000px){
+		
+           	 #left{
+           	 	padding-top: 50px;
+           	 	padding-left: 78px;
+
+           	 }
+
+           	 #move{
+           	 	padding-top: 350px;
+           	 	padding-left: 15px;
+           	 }
+           	 #moves{
+           	 	padding-top: 350px;
+           	 	padding-left: 77px;
+           	 }
+
+             #movees{
+             	padding-left: 15px;
+             	padding-top: 230px;
+             }
+             #mov{
+             	padding-top: 230px;
+             	padding-left: 76px;
+             }
+
+           
+	}

@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Charm:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300&family=Imbue:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda&display=swap');
+.navbar-brand{
+	font-family: 'Charm', cursive;
+	font-size: 40px;
+	color: #fff;
+}
+.nav-item .nav-link{
+	 margin-left: 17px;
+	 font-size: 20px;
+	   font-family: "Lato";
+}
+.collapse{
+   margin-left: 250px;
+}
+
+#downloadApp{
+	border-radius: 10rem;
+	color: #4a8fff;
+	padding: 15px 17px;
+	text-decoration: none;
+	background-color: white;
+	font-size: 15px;
+}
+#downloadApp:hover {
+	color: #fff;
+	transition: .5s ease-in;
+	box-shadow: 5px 10px background-color: #a4508b;
+	/*font-size: 20px;*/
+   background-image: linear-gradient(326deg, #a4508b 0%, #5f0a87 74%);
+}
+.startTwo{
+	position: relative;
+	top: 40px;
+}
+#startOne{
+	border-radius: 3rem;
+	position: absolute;
+	top: 110px;
+	border: 1px solid grey;
+}
+#firstPara{
+	line-height: 35px;
+	font-family: 'Libre Baskerville', serif;
+
+
+}
+#lineOne{
+    width: 30px;
+    height: 1px;
+    display: inline-block;
+    background: #d3d9e3;
+    margin: 7px 30px;
+    margin-top: 50px;
+}
+.center{
+	color: #989898;
+	margin-top: 40px;
+}
+.beautyTwo{
+	margin-top: 45px;
+	color: #5e88fc;
+	line-height: 43px;
+}
+
+
+@media only screen and (max-width: 700px) {
+ #startOne{
+    display: none;
+  }
+}

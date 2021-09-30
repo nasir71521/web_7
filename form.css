@@ -1,0 +1,26 @@
+/*body{
+	background: linear-gradient(45deg, rgba(72, 44, 191, 1) 0%, rgba(106, 198, 240, 1) 100%);
+	background-repeat: no-repeat;
+	background-size: cover;
+	}*/
+	body{
+		background: linear-gradient(45deg, rgba(72, 44, 191, 1) 0%, rgba(106, 198, 240, 1) 100%);
+		background-size: cover;
+		background-repeat: no-repeat;
+		height: 90.8vh;
+	}
+.form-control{
+    width: 400px;
+}
+.container{
+	margin-top: 60px;
+}
+a{
+   
+   background-color: #fff;
+   padding: 10px;
+   width: 80px;
+   color: linear-gradient(45deg, rgba(72, 44, 191, 1) 0%, rgba(106, 198, 240, 1) 100%);
+   font-size: 20px;
+   
+}
